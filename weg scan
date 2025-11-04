@@ -5,3 +5,5 @@ git commit -m "Primeira versão do WEG SCAN Dashboard"
 git branch -M main
 git remote add origin https://github.com/SkyHotz/weg_scan_dashboard.git
 git push -u origin main
+git add requirements.txt
+git push
