@@ -3,5 +3,5 @@ git init
 git add .
 git commit -m "Primeira versão do WEG SCAN Dashboard"
 git branch -M main
-git remote add origin https://github.com/gjoao/weg_scan_dashboard.git
+git remote add origin https://github.com/SkyHotz/weg_scan_dashboard.git
 git push -u origin main
